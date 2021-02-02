@@ -94,6 +94,14 @@ git status -view uncommited or stagged new files
 
 git add [filename]
 
+```
+$ git commit -m "added skills image"
+[master (root-commit) dde6f4a] added skills image
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 3.jpg
+
+```
+
 git log -commited history
 
 
