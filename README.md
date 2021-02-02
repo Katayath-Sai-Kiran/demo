@@ -48,7 +48,7 @@ for markdown tutorials andreference
 - oops concepts
 - critical thinking
 
-
+# inserting code
 ```python 
 array = input().split()
 for num in array:
@@ -57,5 +57,9 @@ for num in array:
 ```
 `python
 input : 1 2 2 3 4 5 4 4 6 4 
+
 output: 4
 `
+
+# inserting urls in markdown
+[profile](www.facebook.com/search/sai kiran)
