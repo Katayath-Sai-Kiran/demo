@@ -115,4 +115,14 @@ added skills image
 ```
 ## git remote add [remote name] [repo link]
 
+```
+$ git remote add pushInstance "https://github.com/sai-kiran-the-programmer/demo.git"
+```
+## git remote -v -all remotes
 
+```
+$ git remote -v
+pushInstance    https://github.com/sai-kiran-the-programmer/demo.git (fetch)
+pushInstance    https://github.com/sai-kiran-the-programmer/demo.git (push)
+
+```
