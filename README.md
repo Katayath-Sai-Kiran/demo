@@ -39,7 +39,7 @@ for markdown tutorials andreference
 
 ## unoredred list
 
-_ data strutures
-_ algorithms
-_ oops concepts
-_ critical thinking
+- data strutures
+- algorithms
+- oops concepts
+- critical thinking
