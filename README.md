@@ -55,3 +55,7 @@ for num in array:
     if (array.count(num) == int(num):
         print(num)
 ```
+`python
+input : 1 2 2 3 4 5 4 4 6 4 
+output: 4
+`
