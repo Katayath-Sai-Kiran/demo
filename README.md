@@ -55,11 +55,11 @@ for num in array:
     if (array.count(num) == int(num):
         print(num)
 ```
-`python
+```python
 input : 1 2 2 3 4 5 4 4 6 4 
 
 output: 4
-`
+```
 
 # inserting urls in markdown
 Follow Me on 
@@ -67,3 +67,10 @@ Follow Me on
 [Facebook](www.facebook.com/search/20%sai20%kiran)
 
 [Instagram](www.instagram.com)
+
+
+Contact me at
+
+[Gmail](www.gmail.com]
+
+[Github](www.Github.com/login)
