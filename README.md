@@ -5,8 +5,11 @@
 
 ## old and italic formats
 **sai kiran** (bold)
+
 __sai kiran__ (italic)
+
 _sai kiran_ (italic)
+
 _*sai kiran*_ (bold and italic)
 
 ## markdownguide.org  
@@ -24,9 +27,9 @@ for markdown tutorials andreference
 2. java script
 3. flutter
 
-    1. widgets
-    2. components
-    3. state management
+    1. _widgets_ (italic)
+    2. _components_
+    3. _state management_
 4. dart
 
     1. oops
