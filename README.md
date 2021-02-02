@@ -41,5 +41,7 @@ for markdown tutorials andreference
 
 - data strutures
 - algorithms
+    * searching
+    * sorting
 - oops concepts
 - critical thinking
