@@ -88,11 +88,11 @@ Contact me at
 
 # initialization
 
-git init -initialize git
+## git init -initialize git
 
-git status -view uncommited or stagged new files
+## git status -view uncommited or stagged new files
 
-git add [filename]
+## git add [filename]
 
 ```
 $ git commit -m "added skills image"
@@ -102,7 +102,7 @@ $ git commit -m "added skills image"
 
 ```
 
-git log -commited history
+## git log -commited history
 
 
 ```
@@ -113,3 +113,6 @@ Date:   Tue Feb 2 11:53:45 2021 +0530
 
 added skills image
 ```
+## git remote add [remote name] [repo link]
+
+
