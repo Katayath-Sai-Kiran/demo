@@ -126,3 +126,21 @@ pushInstance    https://github.com/sai-kiran-the-programmer/demo.git (fetch)
 pushInstance    https://github.com/sai-kiran-the-programmer/demo.git (push)
 
 ```
+## git push [remoter name] [master name]
+
+```
+$ git push pushInstance master
+GitEnumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 39.38 KiB | 13.13 MiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/sai-kiran-the-programmer/demo/pull/new/master
+remote:
+To https://github.com/sai-kiran-the-programmer/demo.git
+ * [new branch]      master -> master
+
+```
