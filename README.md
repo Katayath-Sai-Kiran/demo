@@ -43,5 +43,7 @@ for markdown tutorials andreference
 - algorithms
     * searching
     * sorting
+        - bubble sort
+        - quick sort
 - oops concepts
 - critical thinking
