@@ -77,13 +77,7 @@ Contact me at
 
 ## inserting images
 
-
-
-
-
-
-
-
+![Skills]("https://ak.picdn.net/shutterstock/videos/3021712/thumb/3.jpg")
 
 
 # initialization
