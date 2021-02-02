@@ -78,3 +78,28 @@ Contact me at
 ## inserting images
 
 
+
+
+
+
+
+
+
+
+# initialization
+
+git init -initialize git
+git status -view uncommited or stagged new files
+git add [filename]
+git log -commited history
+
+```
+$ git log
+commit dde6f4a2584a1e4a563c2abf278bd23d5cbee787 (HEAD -> master)
+Author: unknown <sai-kiran-the-programmer>
+Date:   Tue Feb 2 11:53:45 2021 +0530
+
+    added skills image
+
+
+```
