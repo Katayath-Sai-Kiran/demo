@@ -71,6 +71,6 @@ Follow Me on
 
 Contact me at
 
-[Gmail](www.gmail.com]
+[Gmail](www.gmail.com)
 
 [Github](www.Github.com/login)
