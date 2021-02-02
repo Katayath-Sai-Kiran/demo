@@ -47,3 +47,11 @@ for markdown tutorials andreference
         - quick sort
 - oops concepts
 - critical thinking
+
+
+``` 
+array = input().split()
+for num in array:
+    if (array.count(num) == int(num):
+        print(num)
+```
