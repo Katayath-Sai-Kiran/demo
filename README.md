@@ -49,7 +49,7 @@ for markdown tutorials andreference
 - critical thinking
 
 
-``` 
+```python 
 array = input().split()
 for num in array:
     if (array.count(num) == int(num):
