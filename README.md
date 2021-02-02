@@ -77,7 +77,7 @@ Contact me at
 
 ## inserting images
 
-![Skills](3.jpg)
+![Skills](https://github.com/Katayath-Sai-Kiran/demo/blob/master/3.jpg?raw=true)
 
 
 # initialization
