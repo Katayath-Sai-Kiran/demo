@@ -2,15 +2,16 @@
 ## github demo     (sub heading upto 5#'s )
 .md stands for "mark down"
 
-##bold and italic formats
+## old and italic formats
 **sai kiran** (bold)
 __sai kiran__ (italic)
 _sai kiran_ (italic)
 _*sai kiran*_ (bold and italic)
 
-#markdownguide.org  
+## markdownguide.org  
+for markdown tutorials andreference
 
-##usage of urls in markdown file
+## usage of urls in markdown file
 
 
 ##blockquotes
